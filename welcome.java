@@ -1,6 +1,7 @@
 class welcome{
 	public static void main(String args[])
 	{
-		System.out.print("welcome");
+
+		System.out.print("welcome!this is my first java program");
 	}
 }
